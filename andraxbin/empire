@@ -10,4 +10,4 @@ sudo chmod -R 777 /root/.config /home/andrax/.config/
 
 cd /opt/ANDRAX/Empire
 
-sudo poetry run empire "$@"
+sudo poetry run python3 empire "$@"
